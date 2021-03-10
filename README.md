@@ -16,4 +16,4 @@ washington.csv
 
 # Credits
 
-Thank you to Udacity for creating the challenging project! I am happy i took part in this Nanodegree program
+Thank you to Udacity for creating this challenging project! I am happy i took part in this Nanodegree program it has helped me acquire new skills

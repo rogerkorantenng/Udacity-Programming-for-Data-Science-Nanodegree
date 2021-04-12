@@ -35,7 +35,7 @@ def get_filters():
                              'april', 'may', 'june']:
             break
 
-    # get user input for day of week (all, monday, tuesday, ... sunday)
+    # get user input for days of the week (all, monday, tuesday, ... sunday)
     while True:
         day = input('Specify the day of data to explore. ' +
                     'All, Monday, Tuesday, Wednesday, Thursday, Friday, ' +
